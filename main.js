@@ -279,7 +279,7 @@ jQuery(document).ready(function ($) {
   //   dots[slideIndex9 - 1].className += " active";
   // }
    var typed= new Typed(".autotype",{
-    strings:["Data Scientist","Software Developer"],
+    strings:["Data Scientist","Electrical Engineer"],
     typeSpeed:150,
     backSpeed:150,
     loop:true
