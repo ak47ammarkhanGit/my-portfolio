@@ -1281,7 +1281,7 @@ h4 {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 912px) {
     .projects {
         display: grid;
     }
